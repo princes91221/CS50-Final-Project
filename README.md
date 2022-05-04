@@ -1,17 +1,41 @@
 # Weather App
 
-Video Demo: [Youtube](https://youtu.be/_81qC7xR0F4)
-
 This project contains a web app with below features:
 
-1. Allows user to enter a city name, on click of submit shows the weather information.
+1. Allows user to a city name, on click of submit shows the weather information.
 2. The integration is implemented with help of [Open weather API](https://openweathermap.org/)
 3. If you enter invalid city name it will display an error stating "Please search for a valid city name".
 
-Below technologies are being used:
+## Demo
 
-1. HTML
-2. CSS
-3. JavaScript
+[Youtube](https://www.youtube.com/watch?v=_81qC7xR0F4)
 
-The application is fully responsive and test on most screen sizes devices.
+### Prerequisites
+
+Install node.js
+
+### Installing
+
+Clone existing repository
+
+## Deployment
+
+Deploy the static site via node.
+
+## Built With
+
+* HTML
+* CSS
+* JavaScript
+
+## Authors
+
+* **Prince Sharma**
+
+## License
+
+This project is licensed under the MIT License
+
+## Acknowledgments
+
+* Thanks to CS50 team for the wonderful course!
