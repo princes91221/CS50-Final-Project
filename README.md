@@ -24,13 +24,13 @@ Deploy the static site via node.
 
 ## Built With
 
-* HTML
-* CSS
-* JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Authors
 
-* **Prince Sharma**
+- **Prince Sharma**
 
 ## License
 
@@ -38,4 +38,34 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Thanks to CS50 team for the wonderful course!
+- Thanks to CS50 team for the wonderful course!
+
+### Prerequisites
+
+Install node.js
+
+### Installing
+
+Clone existing repository
+
+## Deployment
+
+Deploy the static site via node.
+
+## Built With
+
+- HTML
+- CSS
+- JavaScript
+
+## Authors
+
+- **Prince Sharma**
+
+## License
+
+This project is licensed under the MIT License
+
+## Acknowledgments
+
+- Thanks to CS50 team for the wonderful course!
